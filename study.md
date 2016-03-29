@@ -15,17 +15,16 @@
 Please name two things the DOM is not.
 
 ```md
-<!-- your answer here -->
+1) The HTML you write.
+2) 'View Source'
 ```
 
 Is the information inside your Dev Tools the DOM? Why or why not?
 
 ```md
-<!-- your answer here -->
-```
+Yes, because it's a visial representaion of the DOM. ```
 
 In your own words, why do you think the DOM is important?
 
 ```md
-<!-- your answer here -->
-```
+I think the DOM is important because it's where things happen. Everything kind of goes to it...if you will.```
