@@ -15,17 +15,19 @@
 Please name two things the DOM is not.
 
 ```md
-<!-- your answer here -->
+The Document Object Model (DOM) is a cross-platform and language-independent convention for representing and interacting with objects in HTML, XHTML, and XML documents
+
+Its NOT:  a language or a servier
 ```
 
 Is the information inside your Dev Tools the DOM? Why or why not?
 
 ```md
-<!-- your answer here -->
+Yes, the DOM the kind of like the tree you see on the right on the browswer, when you click inspect.
 ```
 
 In your own words, why do you think the DOM is important?
 
 ```md
-<!-- your answer here -->
+It helps to have convention to commmunicate with different servers.
 ```
