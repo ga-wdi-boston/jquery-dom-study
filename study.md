@@ -15,17 +15,19 @@
 Please name two things the DOM is not.
 
 ```md
-<!-- your answer here -->
+The DOM is not HTML nor CSS. It is simply a tree representing those elements from the file.
 ```
 
 Is the information inside your Dev Tools the DOM? Why or why not?
 
 ```md
-<!-- your answer here -->
+Yes, when you inspect an element on a webpage -- the DOM is represented in the DEV Tools
+because the browser is giving you a live-snapshot of how it translated the HTML that you wrote for the page.
 ```
 
 In your own words, why do you think the DOM is important?
 
 ```md
-<!-- your answer here -->
+The DOM is very important because it aids browsers in translating the HTML document to quickly find
+HTML elements with Javascript.
 ```
