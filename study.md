@@ -15,17 +15,19 @@
 Please name two things the DOM is not.
 
 ```md
-<!-- your answer here -->
+The DOM is not your HTML, but is made up of your HMTL.
+
+The DOM is not your Javascript.
 ```
 
 Is the information inside your Dev Tools the DOM? Why or why not?
 
 ```md
-<!-- your answer here -->
+In a way, yes. The way your CSS, HTML, and other code is structed in there is your DOM, but the actual HTML and CSS code is not.
 ```
 
 In your own words, why do you think the DOM is important?
 
 ```md
-<!-- your answer here -->
+A DOM is important because it allows the browser to interpert, correct, and make all your different code files compatible so they can be presented to the user in a reasonable way. 
 ```
