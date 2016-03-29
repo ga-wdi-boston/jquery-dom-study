@@ -15,17 +15,18 @@
 Please name two things the DOM is not.
 
 ```md
-<!-- your answer here -->
+The doctype or the view source.
 ```
 
 Is the information inside your Dev Tools the DOM? Why or why not?
 
 ```md
-<!-- your answer here -->
+Kind of. It's a convention for representing objects in html. So, when a browser is directed to the html code you wrote, the dom performs additional work and manipulates it, and is the visual representation of waht you see.
+
 ```
 
 In your own words, why do you think the DOM is important?
 
 ```md
-<!-- your answer here -->
+It seems like it takes all html writted, logically organizes it, and displays it the best way for the browswer, without changing your original html code. 
 ```
