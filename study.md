@@ -19,17 +19,17 @@ it's also not a rendered page.
 Please name two things the DOM is not.
 
 ```md
-<!-- your answer here -->
+The DOM is not a lanaguage and the DOM is not a server.
 ```
 
 Is the information inside your Dev Tools the DOM? Why or why not?
 
 ```md
-<!-- your answer here -->
+The information in our Dev Tools is in the DOM because the tools can display the DOM of our content.  For example, if you inspect the element of a webpage, it will show you the DOM structure of the site.
 ```
 
 In your own words, why do you think the DOM is important?
 
 ```md
-<!-- your answer here -->
+The DOM is important because it is a hierarchical structure of any webpage.  By using that structure, it is easy to traverse elements of a site in relation to one another.
 ```
