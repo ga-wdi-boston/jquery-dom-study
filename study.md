@@ -19,17 +19,16 @@ it's also not a rendered page.
 Please name two things the DOM is not.
 
 ```md
-<!-- your answer here -->
-```
+DOM is not an HTML document. DOM is not a server.```
 
 Is the information inside your Dev Tools the DOM? Why or why not?
 
 ```md
-<!-- your answer here -->
-```
+Yes, because it defines the format of an HTML doc. It also allows the doc to be
+accessed and changed.```
 
 In your own words, why do you think the DOM is important?
 
 ```md
-<!-- your answer here -->
-```
+The DOM is important because it defines the format of HTML so all browsers can
+access your document.```
