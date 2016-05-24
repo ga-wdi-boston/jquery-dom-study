@@ -19,17 +19,22 @@ it's also not a rendered page.
 Please name two things the DOM is not.
 
 ```md
-<!-- your answer here -->
+The DOM is not your HTML, and the DOM is not the HTML in ViewSource.
 ```
 
 Is the information inside your Dev Tools the DOM? Why or why not?
 
 ```md
-<!-- your answer here -->
+The Dev Tools shows a visual representation of the DOM as it exists as you are
+viewing the page.  It is not neccessarily the same as your HTML since you may have
+a mistake that the browser is fixing for you, or if you have JavaScript elements that
+can manipulate the page.
 ```
 
 In your own words, why do you think the DOM is important?
 
 ```md
-<!-- your answer here -->
+The DOM is important because it represents the live version of an application, so
+any JavaScript that manipulates or interacts with the page uses the DOM as a reference
+because the DOM represents the most current version of whatever page you are viewing.
 ```
