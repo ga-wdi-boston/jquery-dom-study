@@ -19,17 +19,20 @@ it's also not a rendered page.
 Please name two things the DOM is not.
 
 ```md
-<!-- your answer here -->
+The Document Object Model is not a set of data structures, it is an object model that specifies interfaces;
+The Document Object Model was strongly influenced by "Dynamic HTML", but it does not implement all of "Dynamic HTML";
+Reference: https://www.w3.org/TR/DOM-Level-1/introduction.html
 ```
 
 Is the information inside your Dev Tools the DOM? Why or why not?
 
 ```md
-<!-- your answer here -->
+Only the HTML code inside Dev Tools are a visual representation of the DOM; Because Dev tools can inspecting the DOM and styles;
+Reference: https://developer.chrome.com/devtools
 ```
 
 In your own words, why do you think the DOM is important?
 
 ```md
-<!-- your answer here -->
+It is important that Document Object Model is a platform that allow programs to dynamically access the document;
 ```
