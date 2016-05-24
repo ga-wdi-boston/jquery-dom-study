@@ -1,5 +1,7 @@
 # jQuery Study
 
+wasnt able to complete the tutorial but by the end of today will have this one, the 2 from yesterday and any from today completed.
+
 ## Required Readings
 
 -   [The DOM | Wikipedia](https://en.wikipedia.org/wiki/Document_Object_Model)
