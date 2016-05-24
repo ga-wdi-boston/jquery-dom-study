@@ -19,17 +19,23 @@ it's also not a rendered page.
 Please name two things the DOM is not.
 
 ```md
-<!-- your answer here -->
+The DOM is not source HTML (from "view source") and it is not a rendered page.
 ```
 
 Is the information inside your Dev Tools the DOM? Why or why not?
 
 ```md
-<!-- your answer here -->
+Yes, the browser makes the DOM based on the html it is showing.
+It will fix errors for us, and complete the code so that it can be displayed.
+So, the code that is shown in the dev tools may be different than the HTML we originally wrote.
+It is a visual represenation of the DOM. Really though, the DOM is a convention that has
+become the way that JavaScript access parts of a page e.g. getElementByID to select
+an element with a certain ID.
 ```
 
 In your own words, why do you think the DOM is important?
 
 ```md
-<!-- your answer here -->
+The DOM is an easy way to access parts of the page using JavaScript. It lets you have
+dynamic and highly functional and interactive web-pages.
 ```
