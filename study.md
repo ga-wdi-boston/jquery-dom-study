@@ -19,17 +19,18 @@ it's also not a rendered page.
 Please name two things the DOM is not.
 
 ```md
-<!-- your answer here -->
+1. The DOM is not the html code you write.
+2. The DOM is not what is depicted when you "View Source" in the browser.
 ```
 
 Is the information inside your Dev Tools the DOM? Why or why not?
 
 ```md
-<!-- your answer here -->
+Yes, generally speaking. The Dev Tools will show more than just your html code in situations where the browser automatically corrects mistakes or omissions you may have made, and also will show elements changed by your javascript code.
 ```
 
 In your own words, why do you think the DOM is important?
 
 ```md
-<!-- your answer here -->
+The DOM is very important because it is the tree structure which browsers render to allow us to manipulate different nodes (elements) of our web pages using jQuery, making them interactive and able to change without reloading the page. It organizes all of our content into an accessible structure. 
 ```
