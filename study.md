@@ -18,18 +18,12 @@ it's also not a rendered page.
 
 Please name two things the DOM is not.
 
-```md
-<!-- your answer here -->
-```
+The HTML you write is not the DOM and the view source is not the DOM
 
 Is the information inside your Dev Tools the DOM? Why or why not?
 
-```md
-<!-- your answer here -->
-```
+Yes, its the visual representation fo your DOM
 
 In your own words, why do you think the DOM is important?
 
-```md
-<!-- your answer here -->
-```
+To set some slight standardization acrosss web browsers.
