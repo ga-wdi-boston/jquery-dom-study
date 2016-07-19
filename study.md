@@ -19,13 +19,13 @@ it's also not a rendered page.
 Please name two things the DOM is not.
 
 ```md
-<!-- your answer here -->
+HTML; view source
 ```
 
 Is the information inside your Dev Tools the DOM? Why or why not?
 
 ```md
-<!-- your answer here -->
+No, DOW is the model to standarlize the object in HTML, and Dev Tools can represent what the DOW looks like. 
 ```
 
 In your own words, why do you think the DOM is important?
