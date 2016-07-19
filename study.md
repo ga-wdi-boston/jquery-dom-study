@@ -19,17 +19,19 @@ it's also not a rendered page.
 Please name two things the DOM is not.
 
 ```md
-<!-- your answer here -->
+HTML is not the DOM.
+View source is not the DOM either.
 ```
 
 Is the information inside your Dev Tools the DOM? Why or why not?
 
 ```md
-<!-- your answer here -->
+It is the DOM. It shows visual representation of the DOM. DOM is created from HTML. But it isn't always the same as our HTML.
+For example, if we have <table> tag but forget to add <tbody> tag,the browser will add it for us, and it will be within our DOM, but not HTML.
 ```
 
 In your own words, why do you think the DOM is important?
 
 ```md
-<!-- your answer here -->
+Since the DOM represents an HTML, XHTML and XML document as a tree structure where every node is an object, using the DOM we can easily access every single one of them and manipulate those elements.
 ```
