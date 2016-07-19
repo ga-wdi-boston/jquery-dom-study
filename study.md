@@ -25,11 +25,13 @@ Please name two things the DOM is not.
 Is the information inside your Dev Tools the DOM? Why or why not?
 
 ```md
-<!-- Yes, the information iside of the Dev Tools is the DOM. -->
+<!-- Yes, the information iside of the Dev Tools is the DOM. The Dev Tools show
+how your browser interpreted the html code. -->
 ```
 
 In your own words, why do you think the DOM is important?
 
 ```md
-<!-- your answer here -->
+<!-- The DOM is important b/c it takes each element from the HTML file and
+turns them into objects that the broswers can use to make a web page.-->
 ```
