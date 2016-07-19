@@ -19,17 +19,21 @@ it's also not a rendered page.
 Please name two things the DOM is not.
 
 ```md
-<!-- your answer here -->
+The Document Object Model is not the actual HTML that is written.  The DOM is also not what is seen within View Source.
 ```
 
 Is the information inside your Dev Tools the DOM? Why or why not?
 
 ```md
-<!-- your answer here -->
+Yes, the HTML seen in Dev Tools is the DOM.  This is created, for the most part, from the code that is written.  Some pieces of content in the Dev Tools could be different from what is written if there was a mistake in the written code and the browser has automatically fixed it.
+Also, the effects of Javascipt code that manipulates HTML can be seen in the DOM even though it is not seen in the developers' written code.
 ```
 
 In your own words, why do you think the DOM is important?
 
 ```md
-<!-- your answer here -->
+The DOM is important because we can see a overall view of the nodes that have built the webpage and the relationships of these nodes with eachother.  The DOM will show us where the node elements came from if it is not direclty from the developers code.  
+
+
+
 ```
