@@ -16,20 +16,23 @@ it's also not a rendered page.
 
 ## jQuery !== ?
 
+$("span").text()
+
 Please name two things the DOM is not.
 
 ```md
-<!-- your answer here -->
+1. A framework
+2. A computing language
 ```
 
 Is the information inside your Dev Tools the DOM? Why or why not?
 
 ```md
-<!-- your answer here -->
+No it is a visual representation of the DOM. You can not
 ```
 
 In your own words, why do you think the DOM is important?
 
 ```md
-<!-- your answer here -->
+It gives you the ability to interact with your site.
 ```
