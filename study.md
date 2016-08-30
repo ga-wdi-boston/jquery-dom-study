@@ -19,17 +19,20 @@ it's also not a rendered page.
 Please name two things the DOM is not.
 
 ```md
-<!-- your answer here -->
+DOM is NOT...
+1. a computing language
+2. a framework
 ```
 
 Is the information inside your Dev Tools the DOM? Why or why not?
 
 ```md
-<!-- your answer here -->
+No. It is a visual representation of the DOM.
 ```
 
 In your own words, why do you think the DOM is important?
 
 ```md
-<!-- your answer here -->
+The DOM is important because it is allows you to change the structure, style, and content of your document (your code), by accessing each node, each of which represent a live object. As we learned in WDI Fundamentals, this is
+known as accessing, traversing and manipulating the DOM.
 ```
