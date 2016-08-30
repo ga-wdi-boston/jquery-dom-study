@@ -19,17 +19,19 @@ it's also not a rendered page.
 Please name two things the DOM is not.
 
 ```md
-<!-- your answer here -->
+<!-- The DOM is not the written code, the language used,
+                                        or the displayed page-->
 ```
 
 Is the information inside your Dev Tools the DOM? Why or why not?
 
 ```md
-<!-- your answer here -->
+<!-- The dev tools appear to be the closest we can get to visualizing the
+ DOM, which is closer to the  -->
 ```
 
 In your own words, why do you think the DOM is important?
 
 ```md
-<!-- your answer here -->
+<!-- THe DOM is not part of the language, or part of page layout, but the model used to create a layout, or to allow the language to manipulate objects.  -->
 ```
