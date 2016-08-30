@@ -19,17 +19,17 @@ it's also not a rendered page.
 Please name two things the DOM is not.
 
 ```md
-<!-- your answer here -->
+The HTML written. The View Source.
 ```
 
 Is the information inside your Dev Tools the DOM? Why or why not?
 
 ```md
-<!-- your answer here -->
+Yes. DevTools looks like HTML but is actually a visual representation of the DOM. If your html contains mistakes, DevTools might show a version where the browser has already fixed them.
 ```
 
 In your own words, why do you think the DOM is important?
 
 ```md
-<!-- your answer here -->
+Javascript is just a language that can manipulate the DOM. The DOM is actually where all the action happens in the browser (e.g. A DOM property is attached on a DOM node and when a designated event happens, the DOM node emits that event).
 ```
