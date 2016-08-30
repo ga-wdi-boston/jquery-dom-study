@@ -19,17 +19,27 @@ it's also not a rendered page.
 Please name two things the DOM is not.
 
 ```md
-<!-- your answer here -->
+The DOM is not the HTML code that I, the developer, write.
+
+The DOM is not the code I see when I select "View Source" in the browser.
 ```
 
 Is the information inside your Dev Tools the DOM? Why or why not?
 
 ```md
-<!-- your answer here -->
+Kind of. It is the brower's visual representation of the DOM. It will reflect
+any changes made to the original HTML by JavaScript, or by the browser's own
+auto-correction, or by other mechanisms that we have yet to learn about.
 ```
 
 In your own words, why do you think the DOM is important?
 
 ```md
-<!-- your answer here -->
+The DOM is important because it shows the HTML as it really lives in the context
+of the web browser where a page is rendered and viewed. The branching layout of
+HTML elements as nodes in a tree is useful and sensible from a variety of
+perspectives, including:
+  -JavaScript commands that might need to find and alter an element
+  -the browser's construction of a rendering tree from which to
+   lay out, paint, and display the HTML elements
 ```
