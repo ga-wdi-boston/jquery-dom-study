@@ -16,20 +16,24 @@ it's also not a rendered page.
 
 ## jQuery !== ?
 
+```md
 Please name two things the DOM is not.
 
-```md
-<!-- your answer here -->
+  It is not the HTML that you write.
+  It is not "view source".
 ```
 
+
+```md
 Is the information inside your Dev Tools the DOM? Why or why not?
-
-```md
-<!-- your answer here -->
+  It visually represents the DOM in a tree structure, displaying the relationships between
+  nodes.
 ```
 
-In your own words, why do you think the DOM is important?
 
 ```md
-<!-- your answer here -->
+In your own words, why do you think the DOM is important?
+  It helps to give the developer a visual representation of nodes and
+  the relationships between them. This in turn helps the developer dubug and
+  otherwise find problems in their code.
 ```
