@@ -19,7 +19,7 @@ it's also not a rendered page.
 Please name two things the DOM is not.
 
 ```md
-<!-- your answer here -->
+The DOM is not HTML and the DOM is not a webpage.
 ```
 
 Is the information inside your Dev Tools the DOM? Why or why not?
