@@ -19,17 +19,17 @@ it's also not a rendered page.
 Please name two things the DOM is not.
 
 ```md
-<!-- your answer here -->
+1. The HTML I write is NOT the DOM. But the HTML I write is parsed by the browser and turned into the DOM.
+2. View Source is NOT the DOM. View Source just shows you the HTML that makes up that page. It's probably the exact HTML that you wrote.
 ```
 
 Is the information inside your Dev Tools the DOM? Why or why not?
 
 ```md
-<!-- your answer here -->
+Yes! When we are looking at the panel in whatever DevTools you we using that shows us stuff that looks like HTML, that is a visual representation of the DOM!
 ```
 
 In your own words, why do you think the DOM is important?
 
 ```md
-<!-- your answer here -->
-```
+When our page is rendered, it goes through a process in which DOM and CSSOM interpret our CSS and HTML files' nodes. They are both combined into a render tree that contains the nodes to be rendered, later into a layout and finally the painting on the page. The DOM communicated the html important nodes to the render tree, which represent html elements. The DOM represents the html document as a group of nodes.  ```
