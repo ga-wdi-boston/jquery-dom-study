@@ -19,17 +19,25 @@ it's also not a rendered page.
 Please name two things the DOM is not.
 
 ```md
-<!-- your answer here -->
+1. The HTML you write.
+2. View Source
 ```
 
 Is the information inside your Dev Tools the DOM? Why or why not?
 
 ```md
-<!-- your answer here -->
+Yes, what you see in your Dev Tools is the DOM. My guess is that Dev Tools shows
+you the DOM so you can see the full effect of your JavaScript on the HTML you originally
+wrote.  If the Dev Tools only showed you your true HTML, you wouldn't be getting a full
+picture.
 ```
 
 In your own words, why do you think the DOM is important?
 
 ```md
-<!-- your answer here -->
+As mentioned above, the DOM gives you the big picture.  You can see your HTML as
+interpeted by your browser, along with any modifications made by JavaScript/jQuery.
+The DOM is also important as it provides a layer between your HTML and JavaScript.
+You can impact the look of your site and make it interactive without actually
+modifying any of the underlying HTML.
 ```
