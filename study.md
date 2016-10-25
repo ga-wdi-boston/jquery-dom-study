@@ -19,17 +19,20 @@ it's also not a rendered page.
 Please name two things the DOM is not.
 
 ```md
-<!-- your answer here -->
+DOM is not the html file you write neither is it the View source.
 ```
 
 Is the information inside your Dev Tools the DOM? Why or why not?
 
 ```md
-<!-- your answer here -->
+Yes it is, the panel or console you use to look at the html codes are the
+visual representation of the DOM
+the
 ```
 
 In your own words, why do you think the DOM is important?
 
 ```md
-<!-- your answer here -->
+I think DOM is important because it is in fact the action of what you're coding
+
 ```
