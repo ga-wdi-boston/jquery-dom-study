@@ -21,6 +21,7 @@ Please name two things the DOM is not.
 ```md
 1. The DOM is not html even if you 'view source'.
 2. The DOM is not a programming language.
+3. The DOM is not the rendered page.
 ```
 
 Is the information inside your Dev Tools the DOM? Why or why not?
@@ -40,5 +41,5 @@ The DOM is important because it gives us the ability to access, modify, remove,
 insert, and otherwise work with nodes in the DOM structure that directly affects
 what happens on the webpage. Further, the DOM is useful because it gives us
 a defined structure and heirarchy for those elements and how they can interact
-with each other and the user (such as Event Listeners or mouse clicks on the page). 
+with each other and the user (such as Event Listeners or mouse clicks on the page).
 ```
