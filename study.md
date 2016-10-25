@@ -19,17 +19,22 @@ it's also not a rendered page.
 Please name two things the DOM is not.
 
 ```md
-<!-- your answer here -->
+It is not the code you type inside your text editor and it is not the code you
+see in the source when you are inspecting.
 ```
 
 Is the information inside your Dev Tools the DOM? Why or why not?
 
 ```md
-<!-- your answer here -->
+Yes, the DOM is in your Dev Tools because they are the tools to help
+build/fix a webpage you are someone else is building. The DOM is to give
+more of a visual aspect to how your website is structured when you might be
+making changes or just want to look at a different perspective of a webpage.
 ```
 
 In your own words, why do you think the DOM is important?
 
 ```md
-<!-- your answer here -->
+The DOM gives you a visual aspect that lets you see the hierarchey of your
+webpage allowing you to manipulate parts of your code when needed.
 ```
