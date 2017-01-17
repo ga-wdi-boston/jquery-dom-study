@@ -27,17 +27,17 @@ it's also not a rendered page.
 Please name two things the DOM is not.
 
 ```md
-<!-- your answer here -->
+An html page. A file document.
 ```
 
 Is the information inside your Dev Tools the DOM? Why or why not?
 
 ```md
-<!-- your answer here -->
+Yes. The devtools viewer shows the browsers interpretation of the html and other files it is referencing as a DOM output. You can see how the DOM is manipulated this way.
 ```
 
 In your own words, why do you think the DOM is important?
 
 ```md
-<!-- your answer here -->
+The DOM is important because it allows for interactive webpages which can have far more functionality than a regular static web page.
 ```
