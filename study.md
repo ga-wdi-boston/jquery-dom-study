@@ -27,17 +27,17 @@ it's also not a rendered page.
 Please name two things the DOM is not.
 
 ```md
-<!-- your answer here -->
+The dom is not a program.  The DOM is not a feature of HTML.
 ```
 
 Is the information inside your Dev Tools the DOM? Why or why not?
 
 ```md
-<!-- your answer here -->
+Not exactly.  The DOM is an abstract model or way of organizing your website's layout that is independent of the tools used to manipulate it.
 ```
 
 In your own words, why do you think the DOM is important?
 
 ```md
-<!-- your answer here -->
+The DOM is important because it serves as the interface between your Javascript, HTML, and web-browser, and it conceptually ties all of these together so they can interact.
 ```
