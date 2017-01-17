@@ -27,17 +27,22 @@ it's also not a rendered page.
 Please name two things the DOM is not.
 
 ```md
-<!-- your answer here -->
+- The DOM is not the same as the HTML. It is only a visual representation of
+  HTML.
+- The DOM is a language independent model of the page. It is not a part of
+  HTML or JavaScript, but follows a separate set of rules.
 ```
 
 Is the information inside your Dev Tools the DOM? Why or why not?
 
 ```md
-<!-- your answer here -->
+I think DOM view is available in Dev Tools, hence the information inside
+Dev Tools is available in the DOm.
 ```
 
 In your own words, why do you think the DOM is important?
 
 ```md
-<!-- your answer here -->
+DOM is important to provide a standard programming interface that can be used
+in a wide variety of environment and applications.
 ```
