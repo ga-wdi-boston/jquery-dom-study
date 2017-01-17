@@ -27,17 +27,16 @@ it's also not a rendered page.
 Please name two things the DOM is not.
 
 ```md
-<!-- your answer here -->
+DOM is not html, DOM is not Javascript.  It is a way to visually edit those things and load them into a web browser.
 ```
 
 Is the information inside your Dev Tools the DOM? Why or why not?
 
 ```md
-<!-- your answer here -->
-```
+Yes, the elements sections shows the RENDERED DOM for the elements within a page.  It shows the 'tree' of the nodes of those elements.  You can edit it but never save it.  Whis is what DOM is.  A tool to see what happens when you do this or that.```
 
 In your own words, why do you think the DOM is important?
 
 ```md
-<!-- your answer here -->
+You need DOM if your website is interactive (which, 99% of websites are) otherwise you wouldn't be able to keep track of those interactions and their consequences (value? usability?)  It organizes very large things into a workable model.
 ```
