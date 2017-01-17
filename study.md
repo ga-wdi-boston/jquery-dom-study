@@ -27,17 +27,19 @@ it's also not a rendered page.
 Please name two things the DOM is not.
 
 ```md
-<!-- your answer here -->
+It is not language-specific.
+It is not a rendered page.
 ```
 
 Is the information inside your Dev Tools the DOM? Why or why not?
 
 ```md
-<!-- your answer here -->
-```
+Not entirely sure on this one, but I think no. The DOM is the structure model or tree, but I don't think the info in it is inherently Dev Tools? Could be wrong on that.  
 
 In your own words, why do you think the DOM is important?
 
 ```md
-<!-- your answer here -->
+I think the DOM is important because it gives you an interactive way of editing nodes or content, pinpoint problems more efficiently by seeing real-time updates. Also, seeing the box-model parameters is super helpful.
+
+Allows JS to interact with HTML and CSS
 ```
