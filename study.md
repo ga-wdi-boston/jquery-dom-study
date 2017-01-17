@@ -27,17 +27,22 @@ it's also not a rendered page.
 Please name two things the DOM is not.
 
 ```md
-<!-- your answer here -->
+the DOM IS NOT an html file alone, nor is the DOM a JavaScript file
 ```
 
 Is the information inside your Dev Tools the DOM? Why or why not?
 
 ```md
-<!-- your answer here -->
+YES, in a way because it renders the DOM in it.
+It shows it within the Dev tools so that you can edit it live.
 ```
 
 In your own words, why do you think the DOM is important?
 
 ```md
-<!-- your answer here -->
+To understand the organizational hierarchy of a Document that is going through a web page.
+to see the different files in a structured format to see how they relate to eachother can
+help to have you understand whats going on when you are linking different files to eachother--
+say though linking a JavaScript file to an HTML file you can see visually and spatially how they
+are connected and what each are coming from.
 ```
