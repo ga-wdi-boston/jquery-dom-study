@@ -27,17 +27,18 @@ it's also not a rendered page.
 Please name two things the DOM is not.
 
 ```md
-<!-- your answer here -->
+ the HTML we write
+ the source of a webpage
 ```
 
 Is the information inside your Dev Tools the DOM? Why or why not?
 
 ```md
-<!-- your answer here -->
+yes because it's a visual representation of the DOM, it will look similar to HTML but it's not.
 ```
 
 In your own words, why do you think the DOM is important?
 
 ```md
-<!-- your answer here -->
+The document object model is important because it's where the code in javascript, html etc is brought to life and brought to the screen for people to see. The DOM provides the representation for the structure of a document and allows it to be accessed.
 ```
