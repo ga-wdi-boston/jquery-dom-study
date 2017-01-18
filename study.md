@@ -27,17 +27,24 @@ it's also not a rendered page.
 Please name two things the DOM is not.
 
 ```md
-<!-- your answer here -->
+The DOM is not HTML. It is a representation of HTML where each element is a new node or object in the DOM.
+
+- https://css-tricks.com/dom/
+- https://en.wikipedia.org/wiki/Document_Object_Model
+
+The DOM is not Javascript. The DOM is what Javascript is a language understood by the browser which then interacts with the DOM.
+
+- https://css-tricks.com/dom/
 ```
 
 Is the information inside your Dev Tools the DOM? Why or why not?
 
 ```md
-<!-- your answer here -->
+The information in developer tools is not the DOM although it is a visual and changing representation of it. The actual DOM is an API which represents HTML elements as objects is slight more abstract.
 ```
 
 In your own words, why do you think the DOM is important?
 
 ```md
-<!-- your answer here -->
+The DOM is important anytime we're dealing with web pages. Anything we build that will be intrepreted by a browser will translate into the DOM. All of our markup, styles and javascript will become/affect the DOM.
 ```
