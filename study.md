@@ -27,17 +27,17 @@ it's also not a rendered page.
 Please name two things the DOM is not.
 
 ```md
-<!-- your answer here -->
+1. Dom is not language dependent. It has a different set of rules than HTML and Javascript
+2. DOM is not the 'view source', nor is it HTML.
 ```
 
 Is the information inside your Dev Tools the DOM? Why or why not?
 
 ```md
-<!-- your answer here -->
+No. You can use your dev tools to view the changes in how your DOM represented, but that is not the DOM. While JS can be used both within and outside of your browser, the DOM is the backbone for JS IN the browser
 ```
 
 In your own words, why do you think the DOM is important?
 
 ```md
-<!-- your answer here -->
-```
+Languages, like JS, and all html-based web relies on the DOM to access the document and its elements. Without the DOM, what a developer does with a given language is useless.  ```
