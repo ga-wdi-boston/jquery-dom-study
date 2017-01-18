@@ -27,17 +27,17 @@ it's also not a rendered page.
 Please name two things the DOM is not.
 
 ```md
-<!-- your answer here -->
+The DOM is not HTML, nor is it View Source, nor is it Jackie Chan.
 ```
 
 Is the information inside your Dev Tools the DOM? Why or why not?
 
 ```md
-<!-- your answer here -->
+It seems to be the most DOM like thing you can view in Chrome, it shows the current status of all elements in the DOM, allows manipulation of the DOM and the DOM tree, but it is not itself the DOM which is an API and a model for HTML, XML, and others.
 ```
 
 In your own words, why do you think the DOM is important?
 
 ```md
-<!-- your answer here -->
+The DOM is important to society because it provides a standardised structure for HTML, XML etc. It is important to me because it shows me the missing link between what I write in atom, and what I see on the screen in the browser.
 ```
