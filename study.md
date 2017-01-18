@@ -27,17 +27,17 @@ it's also not a rendered page.
 Please name two things the DOM is not.
 
 ```md
-<!-- your answer here -->
+<!-- The html written, and the view source is not the dom. The html is formated by your browser and turned into the dom. The view source just you the html, which is similar to the html you wrote, just compiled using a build process  -->
 ```
 
 Is the information inside your Dev Tools the DOM? Why or why not?
 
 ```md
-<!-- your answer here -->
+<!-- It is sorta, it is a visual representation of the dom. It is a compiling of different code and simplifies them so that it is easier to ready through. -->
 ```
 
 In your own words, why do you think the DOM is important?
 
 ```md
-<!-- your answer here -->
+<!-- It a visual basis for us to view the code of live websites. This is important for us to study how coders structure and write code as a standard.  -->
 ```
