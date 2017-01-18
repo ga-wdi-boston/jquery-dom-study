@@ -27,17 +27,17 @@ it's also not a rendered page.
 Please name two things the DOM is not.
 
 ```md
-<!-- your answer here -->
+<!-- The DOM is not the HTML and it is not the source in the webpage. -->
 ```
 
 Is the information inside your Dev Tools the DOM? Why or why not?
 
 ```md
-<!-- your answer here -->
+<!-- It kind of is.  It shows it what it looks like in HTML file but in a tree like manner, which is the DOM.  -->
 ```
 
 In your own words, why do you think the DOM is important?
 
 ```md
-<!-- your answer here -->
+<!-- The DOM is important because it shows how things are connected to each other.  If you want to see where things link you can follow it up through the DOM. -->
 ```
