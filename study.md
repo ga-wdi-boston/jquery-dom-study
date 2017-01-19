@@ -27,17 +27,19 @@ it's also not a rendered page.
 Please name two things the DOM is not.
 
 ```md
-<!-- your answer here -->
+DOM is neither HTML nor JavaScript.
 ```
 
 Is the information inside your Dev Tools the DOM? Why or why not?
 
 ```md
-<!-- your answer here -->
+No, the code inside the Dev Tool is not the DOM, but it represents the DOM. The
+Dev Tools makes the DOM visible in HTML code.
 ```
 
 In your own words, why do you think the DOM is important?
 
 ```md
-<!-- your answer here -->
+DOM load the HTML in a browser and interacts with the Javascript. It connect, display and manipulate
+the two different code, the HTML and javascript, in the browser.
 ```
