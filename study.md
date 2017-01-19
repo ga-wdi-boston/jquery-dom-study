@@ -27,17 +27,21 @@ it's also not a rendered page.
 Please name two things the DOM is not.
 
 ```md
-<!-- your answer here -->
+its not the html and and its not Javascript. html can viewed as the base/foundation model of DOM and
+Javascript can be viewed as the manipulator of DOM.
 ```
 
 Is the information inside your Dev Tools the DOM? Why or why not?
 
 ```md
-<!-- your answer here -->
+Yes, dev tools are the visual representation of DOM, and it will look like your html file in most cases.
+It can be a different format when mistakes are made inside the html and the browser fixes them for you, thus,
+displaying a different representation of the DOM in comparison to the html
 ```
 
 In your own words, why do you think the DOM is important?
 
 ```md
-<!-- your answer here -->
+it grants access to documents and elements within the documents. Without it, one will not be able
+to manipulate the source within with Javascript. Javascript is just a programming language, thus, it doesn't have access to the net, but with DOM it can do whatever possible mind can think of.
 ```
