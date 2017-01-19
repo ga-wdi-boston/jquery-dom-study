@@ -27,17 +27,17 @@ it's also not a rendered page.
 Please name two things the DOM is not.
 
 ```md
-<!-- your answer here -->
+The DOM is not a direct copy of your html.  It uses your HTML to create the document, but it turns every HTML element into an object that can be manipulated.  The DOM also is not the content of 'view page source'.  We can access the DOM through the developer tools.
 ```
 
 Is the information inside your Dev Tools the DOM? Why or why not?
 
 ```md
-<!-- your answer here -->
+This information is not the DOM itself, but rather a visual representation of the DOM.  It allows us to highlight objects and see where their content is on the page.  It also allows us to communicate with the DOM to manipulate the page's HTML.
 ```
 
 In your own words, why do you think the DOM is important?
 
 ```md
-<!-- your answer here -->
+The DOM is important because it allows us to interact with web pages to add, remove, and change HTML content.  It is useful because these changes can be made without having to rewrite large sections of HTML and re-upload them to the server.
 ```
