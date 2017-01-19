@@ -27,17 +27,19 @@ it's also not a rendered page.
 Please name two things the DOM is not.
 
 ```md
-<!-- your answer here -->
+1. The HTML code on a webpage is not the DOM.  Rather, the code is analyzed by a web browser, such as Google Chrome, which then creates the DOM
+
+2. The DOM is not permanently altered by jQuery.  Instead, it is a map for jQuery to navigate in order to make temporary modification to the code.
 ```
 
 Is the information inside your Dev Tools the DOM? Why or why not?
 
 ```md
-<!-- your answer here -->
+The developer tools found that are part of Google Chrome represent the DOM.  Note that this contrasts with the source code, which cannot be thought of as the DOM.  This is because the code undergoes interpretation by the web browser which make adjustments and alter the code.  This is seen when a developer makes a mistake in the code and Google Chrome "forgives" the mistake and alters the code slightly.  But, the final changes are found in the developer tools and represent an accurate depiction of the DOM.
 ```
 
 In your own words, why do you think the DOM is important?
 
 ```md
-<!-- your answer here -->
+The DOM is a very powerful tool and is especially useful in terms of JavaScript/jQuery.  It can be used in order to animate a webpage and make it more interactive.  For instance, if you would like a color to change when a button is pressed, the conditional statement can alter the DOM in real time, without having to reload a page.  Thus, being able to manipulate the DOM is an essential part of web interactivity.
 ```
