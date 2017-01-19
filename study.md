@@ -27,17 +27,19 @@ it's also not a rendered page.
 Please name two things the DOM is not.
 
 ```md
-<!-- your answer here -->
+The dom is neither the sourcecode for the website nor is it the html of the sourcecode.
 ```
 
 Is the information inside your Dev Tools the DOM? Why or why not?
 
 ```md
-<!-- your answer here -->
+The information inside of Dev Tools is like an analogy of the DOM: the dom itself
+is not contained in them but it represents what the DOM is up to.
 ```
 
 In your own words, why do you think the DOM is important?
 
 ```md
-<!-- your answer here -->
+The DOM handles the set up of webpages and specifically lets javascript get its
+tentacles into the door to affect the HTML and CSS of the site.
 ```
