@@ -27,17 +27,17 @@ it's also not a rendered page.
 Please name two things the DOM is not.
 
 ```md
-<!-- your answer here -->
+<!-- HTML, the View Source-->
 ```
 
 Is the information inside your Dev Tools the DOM? Why or why not?
 
 ```md
-<!-- your answer here -->
+<!-- It sort of is in that it's a visual representation of DOM, but it looks like HTML. -->
 ```
 
 In your own words, why do you think the DOM is important?
 
 ```md
-<!-- your answer here -->
+<!-- If the DOM is me, and JavaScript is English, the words are literally just words, but I'm the thing (person? machine?) that processes the words and acts/reacts accordingly. We can't just have a language because commands don't mean anything unless something can process and use them. -->
 ```
