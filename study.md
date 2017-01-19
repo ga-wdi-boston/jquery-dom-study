@@ -27,17 +27,20 @@ it's also not a rendered page.
 Please name two things the DOM is not.
 
 ```md
-<!-- your answer here -->
+Dom is not a flat markup language, needs to be always in the pair with html if we want to see the content not only in the console but also in the browser window.
+
+Dom is not view source.
 ```
 
 Is the information inside your Dev Tools the DOM? Why or why not?
 
 ```md
-<!-- your answer here -->
+Yes, the tags with notes in the browser inspect element tool are part of the tree structure as called the document object model.
 ```
 
 In your own words, why do you think the DOM is important?
 
 ```md
-<!-- your answer here -->
-```
+The DOM is important for taking a markup language like html and transfer it into the structure that can access a serve side of the website and request some information on that end to shoot back to the web browser where we can see the data rendered. It's used a lot for links and forms.
+
+//source - my own thought
