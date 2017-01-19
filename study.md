@@ -27,17 +27,20 @@ it's also not a rendered page.
 Please name two things the DOM is not.
 
 ```md
-<!-- your answer here -->
+It's not the HTML you write and it's not the view source either.
 ```
 
 Is the information inside your Dev Tools the DOM? Why or why not?
 
 ```md
-<!-- your answer here -->
+They are in some way. Dev Tools is similar to HTML when opening
+the panel and we see HTML-like coding that signifies that we made it to
+Dev Tools.
 ```
 
 In your own words, why do you think the DOM is important?
 
 ```md
-<!-- your answer here -->
+The DOM defines the way a document is accessed and manipulated. It is an API
+for HTML and XML documents. DOM is important because it can manipulate our code as well as manages data from XML.
 ```
