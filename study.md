@@ -26,18 +26,12 @@ it's also not a rendered page.
 
 Please name two things the DOM is not.
 
-```md
-<!-- your answer here -->
-```
+The DOM is not HTML and it is not a rendered page. It is, however, derived from HTML. The DOM is also not what you see when when you hit 'View Source' in your web browser.
 
 Is the information inside your Dev Tools the DOM? Why or why not?
 
-```md
-<!-- your answer here -->
-```
+The information inside of the Dev Tools is a visual representation of the DOM. So technically it isn't the DOM but gives the developer an idea of what the DOM looks like. Often it looks exactly like our HTML but can change as it is rendered for example if there are certain errors in our HTML code.
 
 In your own words, why do you think the DOM is important?
 
-```md
-<!-- your answer here -->
-```
+The DOM is important because it allows developers to dynamically change the content of an webpage using JavaScript or jQuery. It allows for further customization, creativity, and interactability when designing web pages.
