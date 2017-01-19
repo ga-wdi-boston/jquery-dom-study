@@ -27,17 +27,24 @@ it's also not a rendered page.
 Please name two things the DOM is not.
 
 ```md
-<!-- your answer here -->
+<!-- In order to explain what the DOM is not, I will phrase what the DOM is. The Dom is
+a Document Object Model(a tree structure) that allows us to connect with web pages and this connection serves
+to let us modify the content of HTML documets.
+The DOM is not a literal explicit HTML file
+It is not a literal CSS file
+It is not what we called as source in a website.
+ -->
 ```
 
 Is the information inside your Dev Tools the DOM? Why or why not?
 
 ```md
-<!-- your answer here -->
+<!-- Yes, when we inspecg a website, we get a visual representation of the DOM that is as to say a visual
+delineation of the DOM -->
 ```
 
 In your own words, why do you think the DOM is important?
 
 ```md
-<!-- your answer here -->
+<!-- Because that ia where Javascript events take place. Javascript is actually accessing and modifying the nodes in the DOM. -->
 ```
