@@ -27,7 +27,7 @@ it's also not a rendered page.
 Please name two things the DOM is not.
 
 ```md
-1. HTML is not the DOM.
+1. A page of HTML is not the DOM.
 2. View source is not the DOM.
 ```
 
@@ -41,6 +41,6 @@ Source: https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/I
 In your own words, why do you think the DOM is important?
 
 ```md
-The DOM gives us a way to model web pages. It lets us interact with elements of a web page. It shows us the logical structure of the program and the objects used to represent this document. We can use the DOM to learn about the behavior, relationships, and attributes of objects in this document.
+The DOM gives us a way to model web pages. It lets us interact with elements of a web page. It lets us quickly find HTML elements. It shows us the logical structure of the program and the objects used to represent this document. We can use the DOM to learn about the behavior, relationships, and attributes of objects in this document.
 Source: https://www.w3.org/TR/WD-DOM/introduction.html
 ```
