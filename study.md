@@ -19,25 +19,26 @@ material. Instead, digest what you've read and repeat it in your own voice.
 -   [Try jQuery](http://try.jquery.com/). You only need to complete level 1.
 
 -   [Check out this video](https://www.youtube.com/watch?v=n1cKlKM3jYI). The
-point is to get to think about the DOM as a tree! The DOM is not source and
-it's also not a rendered page.
+    point is to get to think about the DOM as a tree! The DOM is not source and
+    it's also not a rendered page.
 
 ## jQuery !== ?
 
 Please name two things the DOM is not.
 
 ```md
-<!-- your answer here -->
+1. The DOM is not the source HTML
+2. The DOM is not a rendered page
 ```
 
 Is the information inside your Dev Tools the DOM? Why or why not?
 
 ```md
-<!-- your answer here -->
+Pretty much - it is a visual representation of the DOM
 ```
 
 In your own words, why do you think the DOM is important?
 
 ```md
-<!-- your answer here -->
+The DOM is important because it allows us to easily update the page that the user sees dynamically using javascript.  If we didn't have the DOM it would be difficult to manipulate the page using javascript.
 ```
