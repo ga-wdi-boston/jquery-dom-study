@@ -27,17 +27,17 @@ it's also not a rendered page.
 Please name two things the DOM is not.
 
 ```md
-<!-- your answer here -->
+It's not html nor is it css
 ```
 
 Is the information inside your Dev Tools the DOM? Why or why not?
 
 ```md
-<!-- your answer here -->
+Yes.   It is a representation of our html enhanced a little to complete the DOM.  For example if we are missing markup that does not break the code, the deve tool will add that markup to complete the DOM.
 ```
 
 In your own words, why do you think the DOM is important?
 
 ```md
-<!-- your answer here -->
+The DOM is the objec that we manipulate to make our websites interactive.  Also, it is agonostic to the type of webbrowser and supported by all browsers.
 ```
