@@ -27,17 +27,18 @@ it's also not a rendered page.
 Please name two things the DOM is not.
 
 ```md
-<!-- your answer here -->
+1) Your HTML
+2) View Source
 ```
 
 Is the information inside your Dev Tools the DOM? Why or why not?
 
 ```md
-<!-- your answer here -->
+Based on the CSS Tricks article, it seems that the Dev Tools are a visual representation of the DOM. In that sense, it represents the DOM.
 ```
 
 In your own words, why do you think the DOM is important?
 
 ```md
-<!-- your answer here -->
+The DOM is a tree which represents the web page with its elements and how it has been rendered in the browser. It allows us to manipulate our web page and create functionality for the site.
 ```
