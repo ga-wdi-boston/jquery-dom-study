@@ -27,17 +27,20 @@ it's also not a rendered page.
 Please name two things the DOM is not.
 
 ```md
-<!-- your answer here -->
+<!-- The DOM is not our html file or code in it.  Or what we see in developer
+tools for the DOM. -->
 ```
 
 Is the information inside your Dev Tools the DOM? Why or why not?
 
 ```md
-<!-- your answer here -->
+<!-- kind of.  It should display the dom manipulation a different way
+but is still not the fully rendered site. -->
 ```
 
 In your own words, why do you think the DOM is important?
 
 ```md
-<!-- your answer here -->
+<!-- allows the functionality we love in websites--user digs it and uses
+the site more. -->
 ```
