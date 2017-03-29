@@ -27,17 +27,38 @@ it's also not a rendered page.
 Please name two things the DOM is not.
 
 ```md
-<!-- your answer here -->
+The DOM is not the following:
+
+-source
+-a rendered page
+
+https://en.wikipedia.org/wiki/Document_Object_Model
+https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction
+https://css-tricks.com/dom/
+
 ```
 
 Is the information inside your Dev Tools the DOM? Why or why not?
 
 ```md
-<!-- your answer here -->
+It is a visual representation of the DOM - showing the nodes and the tree structure.  It is created from the HTML that was written, and is a structured  representation of it.
+
+Sources:
+
+https://en.wikipedia.org/wiki/Document_Object_Model
+https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction
+https://css-tricks.com/dom/
+
 ```
 
 In your own words, why do you think the DOM is important?
 
+
 ```md
-<!-- your answer here -->
+The DOM is important because it gives us a standard avenue through which we can interact with elements on a web page using JavaSript and Jquery.
+
+https://en.wikipedia.org/wiki/Document_Object_Model
+https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction
+https://css-tricks.com/dom/
+
 ```
