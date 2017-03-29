@@ -27,17 +27,25 @@ it's also not a rendered page.
 Please name two things the DOM is not.
 
 ```md
-<!-- your answer here -->
+The DOM is not the HTML that you have written.  It is a compilation of the elements in your HTML (nodes in the DOM tree) that the compiler interprets
+
+The DOM is not a set of data structures.  It only infers and interprets logical relationships (or hierarchies in the code) between items
+but it is not describing actual relationship , linkage, or dependencies between their data structures.
+
+
+https://www.w3.org/TR/REC-DOM-Level-1/introduction.html
 ```
 
 Is the information inside your Dev Tools the DOM? Why or why not?
 
 ```md
-<!-- your answer here -->
+Yes and no. It is a representation of the DOM but it may change if for example a JQuery script executes after the page load.
+As a result, it seems to me a pretty accurate representation of the DOM at a particular point in time.
 ```
 
 In your own words, why do you think the DOM is important?
 
 ```md
-<!-- your answer here -->
+The DOM is important because it allows us to navigate and interact with elements on our page.  Using the DOM, we can likely execute a script
+on a particular object or element in the page with prescision since we can navigate to it by traversing the nodes.
 ```
