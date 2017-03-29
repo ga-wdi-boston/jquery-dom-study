@@ -27,17 +27,28 @@ it's also not a rendered page.
 Please name two things the DOM is not.
 
 ```md
-<!-- your answer here -->
+The DOM is not HTML because HTML is a language whereas DOM is a model for
+specifying interfaces to display HTML
+The DOM is not viewable through 'View Source' as that displays the HTML. DOM
+can be viewed through Dev Tools.
+Source: https://css-tricks.com/dom/
 ```
 
 Is the information inside your Dev Tools the DOM? Why or why not?
 
 ```md
-<!-- your answer here -->
+Yes the information inside Dev Tools is the DOM because it provides
+a visual representation of the DOM.
+Source: https://css-tricks.com/dom/
 ```
 
 In your own words, why do you think the DOM is important?
 
 ```md
-<!-- your answer here -->
+The DOM serves as a middleman between the HTML/CSS and the rendered document/
+browser. It defines a structure to the document that allows languages like
+JavaScript to interact with the document style and content. It offers a way to
+navigate and search through a document.
+Source: https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction,
+https://www.youtube.com/watch?v=n1cKlKM3jYI, https://en.wikipedia.org/wiki/Document_Object_Model
 ```
