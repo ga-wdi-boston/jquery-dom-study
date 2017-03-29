@@ -27,17 +27,17 @@ it's also not a rendered page.
 Please name two things the DOM is not.
 
 ```md
-<!-- your answer here -->
+The DOM is not HTML
+The DOM is not a programming language.
 ```
 
 Is the information inside your Dev Tools the DOM? Why or why not?
 
 ```md
-<!-- your answer here -->
+The code in the DevTools is the DOM (kinda) - it is created from the HTML
 ```
 
 In your own words, why do you think the DOM is important?
 
 ```md
-<!-- your answer here -->
-```
+The DOM is important because it interacts with javascript.
