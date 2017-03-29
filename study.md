@@ -27,17 +27,20 @@ it's also not a rendered page.
 Please name two things the DOM is not.
 
 ```md
-<!-- your answer here -->
+DOM is not a source and it also not a redered page..... :)
 ```
 
 Is the information inside your Dev Tools the DOM? Why or why not?
 
 ```md
-<!-- your answer here -->
+the "elements" tab contiains a real-time, interactive DOM but I would
+think its more like the DevTools has tools like DOM to work the inforamtion.
 ```
 
 In your own words, why do you think the DOM is important?
 
 ```md
-<!-- your answer here -->
+You can use the DOM to debug your CSS and HTML with JS.  You can see the changes
+you made instantly. you test changes etc without working on the actually
+HTML and CSS files since refeashing the page will not save any changes.
 ```
