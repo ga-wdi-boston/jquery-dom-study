@@ -27,17 +27,31 @@ it's also not a rendered page.
 Please name two things the DOM is not.
 
 ```md
-<!-- your answer here -->
+The DOM is not:
+  1.  The static rendered HTML page (i.e. index.html) written by a developer
+  2.  The `view source` for a specific browser
+
+Reference: https://css-tricks.com/dom/
 ```
 
 Is the information inside your Dev Tools the DOM? Why or why not?
 
 ```md
-<!-- your answer here -->
+Yes.  The DOM is created directly from the static HTML (i.e. index.html) when a
+web page loads or is rendered.  Dev Tools (within a browser) shows the current
+state of the DOM at run time.
+
+Reference: https://css-tricks.com/dom/
 ```
 
 In your own words, why do you think the DOM is important?
 
 ```md
-<!-- your answer here -->
+The DOM is important as it "cleans up" mistakes with the HTML.  It also is used
+to find elements within the HTML as well as manipulate content and styles using
+JavaScript.
+It can also listen for user events (i.e. mouse clicks, browser resizing, button
+clicks, data input) as well as provide support for animation of web page elements.
+
+Reference: https://css-tricks.com/dom/
 ```
