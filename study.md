@@ -27,17 +27,22 @@ it's also not a rendered page.
 Please name two things the DOM is not.
 
 ```md
-<!-- your answer here -->
+The DOM is not a duplication of your HTML (although it may look similar).
+The DOM is not a programming language.
+https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction
 ```
 
 Is the information inside your Dev Tools the DOM? Why or why not?
 
 ```md
-<!-- your answer here -->
+Yes.  In Chrome you can view the Elements panel.  It will show you everything in
+the DOM tree and allow you to edit it.
 ```
 
 In your own words, why do you think the DOM is important?
 
 ```md
-<!-- your answer here -->
+To me it seems like a blueprint for a webpage.  All browsers need to be able to use it in order
+to render the page.  I guess it would kind of be like building a house without a
+blueprint if you didn't have one.
 ```
