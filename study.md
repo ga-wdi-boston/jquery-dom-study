@@ -27,17 +27,22 @@ it's also not a rendered page.
 Please name two things the DOM is not.
 
 ```md
-<!-- your answer here -->
+The DOM is not the source HTML and it is not the source view of a rendered page in the
+browser.
 ```
 
 Is the information inside your Dev Tools the DOM? Why or why not?
 
 ```md
-<!-- your answer here -->
+DEV tools does display the DOM created using the source HTML. In most cases, this
+will look very similar/exactly the same as the source HTML. There will be differences
+between the DOM and the source HTML if there is included Javascript that manipulates an
+element in the DOM. The DOM will reflect the change whereas the source HTML will not.
 ```
 
 In your own words, why do you think the DOM is important?
 
 ```md
-<!-- your answer here -->
+The DOM is very important when using Javascript to create events, animations etc. The
+DOM is used to isolate the parts of the website where these changes need to be applied.
 ```
