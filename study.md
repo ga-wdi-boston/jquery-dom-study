@@ -27,17 +27,18 @@ it's also not a rendered page.
 Please name two things the DOM is not.
 
 ```md
-<!-- your answer here -->
+1. The DOM is not a programming language
+2. The DOM and javascript are the same thing
 ```
 
 Is the information inside your Dev Tools the DOM? Why or why not?
 
 ```md
-<!-- your answer here -->
+I think you can see the DOM with Google Dev Tools because you can see the html structure when you tab over to the "elements tab". The elements tab default view is collasped to show all the element ids that the developer would have set in her html file.
 ```
 
 In your own words, why do you think the DOM is important?
 
 ```md
-<!-- your answer here -->
+The DOM is important because it gives all web browsers a standard structure to follow when rendering web pages. Haivng a standard stucture makes developement easier because you can assume that all web browsers will be rendering pages according to the standard structure, so you don't have worry about making your structure different for different browsers. This saves a lot of development time and money.
 ```
