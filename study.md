@@ -27,17 +27,21 @@ it's also not a rendered page.
 Please name two things the DOM is not.
 
 ```md
-<!-- your answer here -->
+The DOM is not the HTML you write (the source) nor is it the final rendered/displayed bage.
+
+Source: https:/./css-tricks.com/dom, and above
 ```
 
 Is the information inside your Dev Tools the DOM? Why or why not?
 
 ```md
-<!-- your answer here -->
+Yes. This information includes not only the HTML as written, but also any changes or manipulations made to it by the browser or by javascript.
+
+source: ttps:/./css-tricks.com/dom
 ```
 
 In your own words, why do you think the DOM is important?
 
 ```md
-<!-- your answer here -->
+The DOM is important because it gives us access to each piece of rendered HTML and allows us to make changes to it dynmaically using JS without needing to refresh a page or change the source HTML.
 ```
