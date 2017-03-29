@@ -27,17 +27,30 @@ it's also not a rendered page.
 Please name two things the DOM is not.
 
 ```md
-<!-- your answer here -->
+The DOM is not a webpage viewed by the user of a website. It allows the developer
+to analyze the internals of the structure of a webpage.
+
+The DOM does not update itself, it is static.  To give a webpage a dynamic look
+and feel, we use jquery to manipulate the DOM, updating, adding or deleting
+parts of the DOM to make a webpage dynamic
 ```
 
 Is the information inside your Dev Tools the DOM? Why or why not?
 
 ```md
-<!-- your answer here -->
+It is a resprensation of the DOM.  It does not include all the details that
+show the node object values. The Dev Tools allows the developer to debug things
+that are not working as expected and allows quick changes.
+These changes then need to be added permanently to
+the files making up the site.
+
 ```
 
 In your own words, why do you think the DOM is important?
 
 ```md
-<!-- your answer here -->
+The existence of the DOM allows us to interact with a web page. It gives us
+the ability to change the look and feel of the page based on events that we can
+register.  The DOM can be updated on fly(nodes added/removed/changed) from it's
+original structure when first launched, allowing web pages to have a dynamic feel to them.
 ```
