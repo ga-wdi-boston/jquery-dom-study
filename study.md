@@ -34,10 +34,10 @@ The DOM is not a programming language.
 Is the information inside your Dev Tools the DOM? Why or why not?
 
 ```md
-The code in the DevTools is the DOM (kinda) - it is created from the HTML
+Yes. The Dev Tools create the DOM using CSS selectors
 ```
 
 In your own words, why do you think the DOM is important?
 
 ```md
-The DOM is important because it interacts with javascript.
+Javascript interacts with the DOM and jQuery can manipulate the DOM.
