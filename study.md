@@ -29,11 +29,13 @@ Please name two things the DOM is not.
 ```md
 <!-- your answer here -->
 ```
+It is not a source nor a rendered page.
 
 Is the information inside your Dev Tools the DOM? Why or why not?
 
 ```md
 <!-- your answer here -->
+Dev Tools is a visual representation of the DOM.
 ```
 
 In your own words, why do you think the DOM is important?
@@ -41,3 +43,4 @@ In your own words, why do you think the DOM is important?
 ```md
 <!-- your answer here -->
 ```
+DOM provides a standard interface for multiple browsers (tree structure). It always for editing of html elements. 
