@@ -33,7 +33,7 @@ DOM is not a language and DOM is not a file.
 Is the information inside your Dev Tools the DOM? Why or why not?
 
 ```md
-No, for what I understood, DOM is everything written in HTML and can be touched
+No, for what I understood, DOM is everything written in HTML that can be touched
 by Javascript, to change or create HTML elements on the browser of the user.
 ```
 
