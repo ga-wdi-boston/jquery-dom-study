@@ -27,17 +27,22 @@ it's also not a rendered page.
 Please name two things the DOM is not.
 
 ```md
-<!-- your answer here -->
+It is not html. It is not javascript.
+
+https://teamtreehouse.com/community/isnt-the-dom-made-from-html
 ```
 
 Is the information inside your Dev Tools the DOM? Why or why not?
 
 ```md
-<!-- your answer here -->
+It is the DOM. It looks like Html but it changes as you move through the page and javascript manipulates it.
+
+https://css-tricks.com/dom/
 ```
 
 In your own words, why do you think the DOM is important?
 
 ```md
-<!-- your answer here -->
+The DOM is our interface for manipulating elements of a webpage. It allows us to make a
+website more interactive than just navigating through different html pages.
 ```
