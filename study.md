@@ -27,17 +27,19 @@ it's also not a rendered page.
 Please name two things the DOM is not.
 
 ```md
-<!-- your answer here -->
+DOM is not a language and DOM is not a file.
 ```
 
 Is the information inside your Dev Tools the DOM? Why or why not?
 
 ```md
-<!-- your answer here -->
+No, for what I understood, DOM is everything written in HTML that can be touched
+by Javascript, to change or create HTML elements on the browser of the user.
 ```
 
 In your own words, why do you think the DOM is important?
 
 ```md
-<!-- your answer here -->
+Because it makes it easier to make the web page interact with the user and
+makes the process of modifying HTML code temporarily, a lot easier.
 ```
