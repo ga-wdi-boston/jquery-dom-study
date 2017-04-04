@@ -27,17 +27,24 @@ it's also not a rendered page.
 Please name two things the DOM is not.
 
 ```md
-The DOM is not the HTML that is sent from the server and the DOM is not the source as shown by the browswer when asked to "View Source...", even though they all have similar visualizations through the tools in the browswer.
+The DOM is not the HTML that is sent from the server and the DOM is not the
+source as shown by the browswer when asked to "View Source...", even though
+they all have similar visualizations through the tools in the browswer.
 ```
 
 Is the information inside your Dev Tools the DOM? Why or why not?
 
 ```md
-The information in dev tools is a representation of the DOM, not the DOM iteself. The representation of the DOM we see in the Dev Tools can be modified programatically by a web application or even by the browswer itself.
+The information in dev tools is a representation of the DOM, not the DOM
+iteself. The representation of the DOM we see in the Dev Tools can be modified
+programatically by a web application or even by the browswer itself.
 ```
 
 In your own words, why do you think the DOM is important?
 
 ```md
-The DOM is important because it provides a standardized tree structure to represent and HTML page that can be easily navigated and manipulated through JavaScript. This enables software to dynamically manipulate what the user sees in the browser without having to reload an entire page.
+The DOM is important because it provides a standardized tree structure to
+represent and HTML page that can be easily navigated and manipulated through
+JavaScript. This enables software to dynamically manipulate what the user sees
+in the browser without having to reload an entire page.
 ```
