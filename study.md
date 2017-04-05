@@ -34,7 +34,7 @@ HTML & View Source.
 Is the information inside your Dev Tools the DOM? Why or why not?
 
 ```md
-Kinda because the DOM is a representation of your HTML resource.
+It's 50/50 because the DOM is a representation of your HTML resource but, its not the same.
 ```
 
 In your own words, why do you think the DOM is important?
