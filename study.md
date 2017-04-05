@@ -27,17 +27,19 @@ it's also not a rendered page.
 Please name two things the DOM is not.
 
 ```md
-<!-- your answer here -->
+<!-- The "view source" is not the DOM.
+The HTML that we write in Atom is not the DOM either.-->
 ```
 
 Is the information inside your Dev Tools the DOM? Why or why not?
 
 ```md
-<!-- your answer here -->
+<!-- Yes, the info we view in our Dev Tools is like the DOM because the HTML we see there gives us a visual, or model, of the DOM. -->
 ```
 
 In your own words, why do you think the DOM is important?
 
 ```md
-<!-- your answer here -->
+<!-- The DOM is important because it allows developers to modify, create, or delete
+elements and content. It also allows developers to navigate the structure of the documents(s) they've built, which is necessary for seeing how their site has been rendered in a browser. -->
 ```
