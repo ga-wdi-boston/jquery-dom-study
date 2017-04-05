@@ -27,17 +27,18 @@ it's also not a rendered page.
 Please name two things the DOM is not.
 
 ```md
-<!-- your answer here -->
+The DOM is not your HTML code that you wrote and is also not the code you see in the source code viewed from the browser's "view source" feature. The browser parses through your HTML code and creates the DOM.
+
 ```
 
 Is the information inside your Dev Tools the DOM? Why or why not?
 
 ```md
-<!-- your answer here -->
+It is a visual representation of the DOM, but not the DOM itself. This representation of the DOM can be manipulated through Dev Tools in the browser.
 ```
 
 In your own words, why do you think the DOM is important?
 
 ```md
-<!-- your answer here -->
+The DOM shows the current representation of the website as a tree-like structure, which allows you to easily navigate through the different elements, retrieve content, and manipulate the tree-like structure itself.
 ```
