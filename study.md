@@ -1,3 +1,4 @@
+ls
 # jQuery Study
 
 Use your favorite search engine and the provided readings to research and
@@ -27,17 +28,17 @@ it's also not a rendered page.
 Please name two things the DOM is not.
 
 ```md
-<!-- your answer here -->
+HTML & View Source.
 ```
 
 Is the information inside your Dev Tools the DOM? Why or why not?
 
 ```md
-<!-- your answer here -->
+Kinda because the DOM is a representation of your HTML resource.
 ```
 
 In your own words, why do you think the DOM is important?
 
 ```md
-<!-- your answer here -->
+The DOM is important because if there are mistakes in your HTML the DOM will fix the browser for you.
 ```
