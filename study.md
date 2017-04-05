@@ -27,17 +27,19 @@ it's also not a rendered page.
 Please name two things the DOM is not.
 
 ```md
-<!-- your answer here -->
+This feels like cheating but, it's not a source, and it's not a rendered page.
 ```
 
 Is the information inside your Dev Tools the DOM? Why or why not?
 
 ```md
-<!-- your answer here -->
+No, the DOM is an internal representation of the webpage used to script and access
+nodes.
 ```
 
 In your own words, why do you think the DOM is important?
 
 ```md
-<!-- your answer here -->
+It's what allows us to run scripts and edit HTML without modifying the original
+code.
 ```
