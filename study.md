@@ -27,17 +27,23 @@ it's also not a rendered page.
 Please name two things the DOM is not.
 
 ```md
-<!-- your answer here -->
+<!-- The DOM is not a source or a rendered page.
+
+source : the README file in this repo. -->
 ```
 
 Is the information inside your Dev Tools the DOM? Why or why not?
 
 ```md
-<!-- your answer here -->
+<!-- Yes! Because developer tools are a visual representation of the DOM.
+
+souce : https://css-tricks.com/dom/ -->
 ```
 
 In your own words, why do you think the DOM is important?
 
 ```md
-<!-- your answer here -->
+<!-- A few examples of why the DOM is important are that it can actually correct mistakes in orignal HTML code files and JavaScript can manipulate the DOM as well. To put things simply, the DOM provides presentation and interaction with sites and that is also important for user experience. Think of it as an intermediate layer between code and the renderer.
+
+source : https://css-tricks.com/dom/-->
 ```
