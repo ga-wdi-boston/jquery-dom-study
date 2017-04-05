@@ -27,17 +27,16 @@ it's also not a rendered page.
 Please name two things the DOM is not.
 
 ```md
-<!-- your answer here -->
+The DOM, document object model, is NOT the html that you write.
+The DOM is also NOT the view source, that is still just the html.
 ```
 
 Is the information inside your Dev Tools the DOM? Why or why not?
 
 ```md
-<!-- your answer here -->
-```
+It is a visualization of the DOM tree.  Mostly, yes it is. ```
 
 In your own words, why do you think the DOM is important?
 
 ```md
-<!-- your answer here -->
-```
+The DOM is important because it is what makes javascript (and JQuery) work.  It is what makes web pages responsive.   If there was no javascript the different between the DOM and html wouldn't really matter that much, but javascript and JQuery and the DOM and html all combine to mean to you can gather data and manipulate a web page based on user responses and input.```
