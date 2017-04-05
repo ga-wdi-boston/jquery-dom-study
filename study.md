@@ -27,17 +27,20 @@ it's also not a rendered page.
 Please name two things the DOM is not.
 
 ```md
-<!-- your answer here -->
+It's not the html I write.  It's not what you see when you "view source".
 ```
 
 Is the information inside your Dev Tools the DOM? Why or why not?
 
 ```md
-<!-- your answer here -->
+Yes, it's a visual representation of the DOM.
 ```
 
 In your own words, why do you think the DOM is important?
 
 ```md
-<!-- your answer here -->
+It seems like the DOM really allows all of the action to happen.  It's what allows
+the code we write in javascript to execute within the page based on specific events
+that happen to certain elements which are called nodes.  Without that, it would render most web pages static
+and less useful.
 ```
