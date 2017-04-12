@@ -27,17 +27,26 @@ it's also not a rendered page.
 Please name two things the DOM is not.
 
 ```md
-<!-- your answer here -->
+The DOM is NOT the HTML you write. Nor is the view you see the DOM. The DOM is
+a data structure your code will interact with.
 ```
 
 Is the information inside your Dev Tools the DOM? Why or why not?
 
 ```md
-<!-- your answer here -->
+Yes. The data you see in your dev tools is representative of the data structure
+the page is broken into.
 ```
 
 In your own words, why do you think the DOM is important?
 
 ```md
-<!-- your answer here -->
+Previous to the DOM web devs had to implement some whacky code acrobatics to try
+and make pages dymanmic. The reason is that before the DOM there wasn't really
+an easy way to change a single element on the page. If you wanted to change say,
+a single value on a line on a page, you had to re-write the entire page on the
+back end and send it to the browser. It was costly in bandwidth at the time since
+we were not typically on broadband and it took a lot more work on the servers to
+serve up entire pages for a single change. The DOM allows for parsable sections
+of HTML to be changed and sent back in sections rather than entire pages.
 ```
