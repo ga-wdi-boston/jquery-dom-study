@@ -27,17 +27,25 @@ it's also not a rendered page.
 Please name two things the DOM is not.
 
 ```md
-<!-- your answer here -->
+
+https://www.w3.org/TR/DOM-Level-2-Core/introduction.html:
+1) The DOM is not a web page.
+2) The DOM is not the index.html document.
+3)
 ```
 
 Is the information inside your Dev Tools the DOM? Why or why not?
 
 ```md
-<!-- your answer here -->
+https://www.w3.org/TR/DOM-Level-2-Core/introduction.html:
+
+Yes. The Dev Tools can access the tree structure of the data. The DOM makes the document accessible to the user.
+
 ```
 
 In your own words, why do you think the DOM is important?
 
 ```md
-<!-- your answer here -->
+The DOM allows th basis for Single Page Application, whereby the page is loaded once, and the developer can acces and manipulate the data in the DOM.
+
 ```
