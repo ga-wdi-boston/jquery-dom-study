@@ -27,17 +27,20 @@ it's also not a rendered page.
 Please name two things the DOM is not.
 
 ```md
-<!-- your answer here -->
+The DOM is NOT the HTML source code that is written.
+The DOM is also NOT the rendered page, its not the final state displayed.
 ```
 
 Is the information inside your Dev Tools the DOM? Why or why not?
 
 ```md
-<!-- your answer here -->
+Yes it is. The DOM is a representation of what the current page might look like right now
+it includes hard coded html behaviors and styles at in a snapshot.
 ```
 
 In your own words, why do you think the DOM is important?
 
 ```md
-<!-- your answer here -->
+Yes very import. It allows us to manipulate the screen using javascript and other tools
+so that we can change the visual state of the application by getting access to each peice.
 ```
